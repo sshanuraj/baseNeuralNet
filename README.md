@@ -1,1 +1,1 @@
-Basic Neural Network
+Basic Neural Network with MSE.
